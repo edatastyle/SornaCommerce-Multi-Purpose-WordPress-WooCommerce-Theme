@@ -1,0 +1,610 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SornaCommerce\n"
+"POT-Creation-Date: 2017-07-22 16:49+0600\n"
+"PO-Revision-Date: 2017-07-22 16:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid "GO TO HOMEPAGE"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57 comments.php:80
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60 comments.php:83
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61 comments.php:84
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:108
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:113
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:119
+msgid "Website"
+msgstr ""
+
+#: comments.php:125
+msgid "Comment"
+msgstr ""
+
+#: inc/core.php:65
+msgid "Primary / Main Menu"
+msgstr ""
+
+#: inc/core.php:66
+msgid "My Account After Login"
+msgstr ""
+
+#: inc/core.php:67
+msgid "My Account Before Login"
+msgstr ""
+
+#: inc/core.php:85
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/core.php:198
+msgid "Sidebar"
+msgstr ""
+
+#: inc/core.php:200 inc/core.php:220
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/core.php:208
+msgid "Slider"
+msgstr ""
+
+#: inc/core.php:210
+msgid "Add slider widgets here."
+msgstr ""
+
+#: inc/core.php:218
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-customize.php:74
+msgid "Lite Theme Options"
+msgstr ""
+
+#: inc/customizer/class-customize.php:88
+msgid "Show Social Buttons on Header"
+msgstr ""
+
+#: inc/customizer/class-customize.php:104
+msgid "Show Social Buttons on Footer"
+msgstr ""
+
+#: inc/customizer/class-customize.php:124
+msgid "Blog List Content Type"
+msgstr ""
+
+#: inc/customizer/class-customize.php:129
+msgid "excerpt"
+msgstr ""
+
+#: inc/customizer/class-customize.php:130
+msgid "full post"
+msgstr ""
+
+#: inc/customizer/class-customize.php:142
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:145
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:148
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:151
+msgid "Google-plus URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:154
+msgid "pinterest URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:157
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:160
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:163
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:170
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-customize.php:205
+msgid "SornaCommerce Pro"
+msgstr ""
+
+#: inc/customizer/class-customize.php:206
+msgid "Go Pro"
+msgstr ""
+
+#: inc/default/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/default/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/default/template-tags.php:45 inc/default/template-tags.php:71
+msgid ", "
+msgstr ""
+
+#: inc/default/template-tags.php:47
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/default/template-tags.php:53
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/default/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/default/template-tags.php:82 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/premium-screen/index.php:12
+msgid "Sorna Commerce"
+msgstr ""
+
+#: inc/premium-screen/index.php:13
+msgid "Premium"
+msgstr ""
+
+#: inc/premium-screen/index.php:13
+msgid "1.0"
+msgstr ""
+
+#: inc/premium-screen/index.php:14
+msgid "Buy Now - $30"
+msgstr ""
+
+#: inc/premium-screen/index.php:15
+msgid "Live Demo"
+msgstr ""
+
+#: inc/premium-screen/index.php:23
+msgid "sornacommerce"
+msgstr ""
+
+#: inc/premium-screen/index.php:23
+msgid "Woocommerce Theme"
+msgstr ""
+
+#: inc/premium-screen/index.php:24
+msgid "Free Version"
+msgstr ""
+
+#: inc/premium-screen/index.php:25
+msgid "Premium Version"
+msgstr ""
+
+#: inc/premium-screen/index.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/premium-screen/index.php:38
+msgid "Blog Page Design"
+msgstr ""
+
+#: inc/premium-screen/index.php:44
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/premium-screen/index.php:50
+msgid "Unlimited color "
+msgstr ""
+
+#: inc/premium-screen/index.php:55
+msgid "Custom Header "
+msgstr ""
+
+#: inc/premium-screen/index.php:61
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/premium-screen/index.php:66
+msgid "Custom Widgets 7+"
+msgstr ""
+
+#: inc/premium-screen/index.php:71
+msgid "Revolution Slider plugins"
+msgstr ""
+
+#: inc/premium-screen/index.php:76
+msgid "woo variation button pro plugins"
+msgstr ""
+
+#: inc/premium-screen/index.php:81
+msgid "Indeed My Team plugins"
+msgstr ""
+
+#: inc/premium-screen/index.php:87
+msgid "Advance Theme Options"
+msgstr ""
+
+#: inc/premium-screen/index.php:93
+msgid "Premium Quick View"
+msgstr ""
+
+#: inc/premium-screen/index.php:99
+msgid "Premium Wishlist "
+msgstr ""
+
+#: inc/premium-screen/index.php:105
+msgid "Premium Compare"
+msgstr ""
+
+#: inc/premium-screen/index.php:111
+msgid "Site Origin Page Builder"
+msgstr ""
+
+#: inc/premium-screen/index.php:117
+msgid "Drag and Drop Banner"
+msgstr ""
+
+#: inc/premium-screen/index.php:123
+msgid "Premium Ajax Scroll"
+msgstr ""
+
+#: inc/premium-screen/index.php:129
+msgid "Premium Zoom"
+msgstr ""
+
+#: inc/premium-screen/index.php:135
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: inc/premium-screen/index.php:140
+msgid "Product Layout "
+msgstr ""
+
+#: inc/premium-screen/index.php:145
+msgid "Product Gird "
+msgstr ""
+
+#: inc/pro.php:9 inc/pro.php:11
+msgid "SornaCommerce Premium"
+msgstr ""
+
+#: inc/theme-functions.php:21
+msgid "says :"
+msgstr ""
+
+#: inc/theme-functions.php:26
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/theme-functions.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/theme-functions.php:34
+msgid "(Edit)"
+msgstr ""
+
+#: inc/theme-hooks.php:74
+msgid "Add a menu ( Login before, After menu ) "
+msgstr ""
+
+#: inc/theme-hooks.php:329
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/theme-hooks.php:333
+msgid "404 Error"
+msgstr ""
+
+#: inc/theme-hooks.php:467
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/theme-hooks.php:467
+msgid "WordPress"
+msgstr ""
+
+#: inc/theme-hooks.php:470
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/theme-hooks.php:470
+msgid "eDataStyle"
+msgstr ""
+
+#: inc/wp-bootstrap-navwalker.php:369
+msgid "Add a menu "
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:758
+#: plugins/breadcrumbs/breadcrumbs.php:787
+#: plugins/breadcrumbs/breadcrumbs.php:814
+#: plugins/breadcrumbs/breadcrumbs.php:841
+#: plugins/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:759
+#: plugins/breadcrumbs/breadcrumbs.php:815
+#: plugins/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:760
+#: plugins/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: plugins/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: search.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/post/single/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:23 template-parts/post/content.php:48
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SornaCommerce"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://edatastyle.com/product/sornacommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SornaCommerce is a fully responsive WordPress WooCommerce theme, perfect for "
+"your e-commerce website. It offers a great design and an awesome collection "
+"of features, with which you can achieve a remarkable e-commerce experience "
+"for your website.  Check out Theme Support at https://edatastyle.com/dwqa-"
+"questions/ and Demo at http://sorna.edatastyle.online/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "proscriptsell"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://edatastyle.com"
+msgstr ""

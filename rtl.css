@@ -1,0 +1,48 @@
+/*
+Theme Name: Sorna Commerce
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	
+}
+.navbar-left{
+	float:right!important;
+}
+#primary,
+#content .col-md-9,
+.section-page-header .col-md-6{
+	float:right;
+}
+aside.sidebar-right{
+	float:left;	
+}
+.navbar-right,
+.pull-right{
+	float:left!important;
+}
+.widget li:after{
+	right:-30px;
+	left:auto;
+}
+.sub-menu,
+ul.sub-menu li .sub-menu{
+	text-align:right;	
+}
+.comment-form .submit{
+	margin-left:auto;
+	margin-right:18px;	
+}
+.breadcrumbs{
+	left:0px;
+	right:auto;	
+}
